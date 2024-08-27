@@ -4,7 +4,8 @@
 
 ### :man_student: :baseball:  
     I'm a total beginner in code and most of my repos are private, but feel free to poke around.  
-    I'm a collegiate athlete and MBA candidate trying to make up for a lack of internships with an underwhelming portfolio.
+    I'm a collegiate athlete and MBA candidate trying to make up for a lack of internships with an 
+    underwhelming portfolio.
 
 ### 📚 I’m currently working on:  
 Really anything that seems interesting. Getting a website together and learning the basics.   
